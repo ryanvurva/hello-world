@@ -5,4 +5,33 @@ html {
 body {
   margin: 0;
   font: 16px / 1 sans-serif;
+  background-color:green;
+}
+ul {
+  color:blue;
+}
+h3 {
+  font-style:italic;
+}
+h4 {
+  font-family: cursive;
+  font-size: 2em;
+}
+p {
+  color: orange;
+}
+div {
+  background-color: red;
+}
+.first {
+  font-weight: bold;
+}
+.second {
+  font-style: oblique;
+}
+.third {
+  font-size: 1.5em;
+}
+#essay {
+  color: white;
 }
